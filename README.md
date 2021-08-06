@@ -1,1 +1,1 @@
-# This site was created at https://iren-b.github.io/mogo/
+# This site was published at https://iren-b.github.io/mogo/
